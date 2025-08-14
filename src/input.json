@@ -1,1 +1,359 @@
-[]
+[
+  {
+    "name": "Crazy Heart",
+    "year": 2009,
+    "director": "Scott Cooper",
+    "genre": "Drama/Music",
+    "rottenTomatoes": 91
+  },
+  {
+    "rottenTomatoes": 96,
+    "name": "Invasion of the Body Snatchers",
+    "director": "Philip Kaufman",
+    "year": 1978,
+    "genre": "Sci-Fi/Horror"
+  },
+  {
+    "year": 2008,
+    "name": "Ip Man",
+    "rottenTomatoes": 84,
+    "director": "Wilson Yip",
+    "genre": "Action/Biography"
+  },
+  {
+    "director": "Robert Zemeckis",
+    "rottenTomatoes": 73,
+    "year": 1990,
+    "name": "Back to the Future Part III",
+    "genre": "Sci-Fi/Adventure"
+  },
+  {
+    "rottenTomatoes": 80,
+    "director": "Chris Columbus",
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "genre": "Fantasy/Adventure"
+  },
+  {
+    "rottenTomatoes": 99,
+    "director": "Fritz Lang",
+    "year": 1927,
+    "name": "Metropolis",
+    "genre": "Sci-Fi/Drama"
+  },
+  {
+    "director": "James Whale",
+    "year": 1931,
+    "name": "Frankenstein",
+    "rottenTomatoes": 100,
+    "genre": "Horror"
+  },
+  {
+    "year": 2013,
+    "director": "Brian Helgeland",
+    "name": "42",
+    "rottenTomatoes": 79,
+    "genre": "Biography/Sport"
+  },
+  {
+    "director": "Todd Haynes",
+    "name": "Far From Heaven",
+    "year": 2002,
+    "rottenTomatoes": 87,
+    "genre": "Drama/Romance"
+  },
+  {
+    "year": 2007,
+    "name": "Across the Universe",
+    "director": "Julie Taymor",
+    "rottenTomatoes": 53,
+    "genre": "Musical/Drama"
+  },
+  {
+    "director": "John McTiernan",
+    "rottenTomatoes": 92,
+    "name": "Die Hard",
+    "year": 1988,
+    "genre": "Action/Thriller"
+  },
+  {
+    "rottenTomatoes": 100,
+    "name": "Toy Story 2",
+    "year": 1999,
+    "director": "John Lasseter",
+    "genre": "Animation/Adventure"
+  },
+  {
+    "year": 2010,
+    "director": "Lee Unkrich",
+    "name": "Toy Story 3",
+    "rottenTomatoes": 98,
+    "genre": "Animation/Adventure"
+  },
+  {
+    "year": 1934,
+    "rottenTomatoes": 98,
+    "name": "It Happened One Night",
+    "director": "Frank Capra",
+    "genre": "Romance/Comedy"
+  },
+  {
+    "name": "The Science of Sleep",
+    "director": "Michel Gondry",
+    "rottenTomatoes": 71,
+    "year": 2006,
+    "genre": "Comedy/Drama"
+  },
+  {
+    "name": "Pleasantville",
+    "rottenTomatoes": 85,
+    "year": 1998,
+    "director": "Gary Ross",
+    "genre": "Drama/Fantasy"
+  },
+  {
+    "director": "David Fincher",
+    "year": 2007,
+    "name": "Zodiac",
+    "rottenTomatoes": 89,
+    "genre": "Crime/Drama"
+  },
+  {
+    "year": 1973,
+    "name": "Papillon",
+    "rottenTomatoes": 92,
+    "director": "Franklin J. Schaffner",
+    "genre": "Biography/Crime"
+  },
+  {
+    "rottenTomatoes": 73,
+    "year": 2001,
+    "name": "Frailty",
+    "director": "Bill Paxton",
+    "genre": "Crime/Thriller"
+  },
+  {
+    "year": 1969,
+    "name": "True Grit",
+    "rottenTomatoes": 90,
+    "director": "Henry Hathaway",
+    "genre": "Adventure/Western"
+  },
+  {
+    "rottenTomatoes": 95,
+    "director": "Joel and Ethan Coen",
+    "year": 2010,
+    "name": "True Grit",
+    "genre": "Adventure/Western"
+  },
+  {
+    "rottenTomatoes": 52,
+    "name": "The Next Three Days",
+    "director": "Paul Haggis",
+    "year": 2010,
+    "genre": "Action/Crime"
+  },
+  {
+    "rottenTomatoes": 98,
+    "name": "Raging Bull",
+    "director": "Martin Scorsese",
+    "year": 1980,
+    "genre": "Biography/Drama"
+  },
+  {
+    "rottenTomatoes": 40,
+    "director": "Rob Reiner",
+    "year": 2007,
+    "name": "The Bucket List",
+    "genre": "Comedy/Drama"
+  },
+  {
+    "year": 1938,
+    "director": "Michael Curtiz, William Keighley",
+    "name": "The Adventures of Robin Hood",
+    "rottenTomatoes": 100,
+    "genre": "Adventure/Action"
+  },
+  {
+    "director": "Sam Raimi",
+    "year": 1987,
+    "name": "Evil Dead II",
+    "rottenTomatoes": 98,
+    "genre": "Horror/Comedy"
+  },
+  {
+    "rottenTomatoes": 97,
+    "name": "Yojimbo",
+    "year": 1961,
+    "director": "Akira Kurosawa",
+    "genre": "Action/Drama"
+  },
+  {
+    "rottenTomatoes": 96,
+    "name": "Ratatouille",
+    "director": "Brad Bird",
+    "year": 2007,
+    "genre": "Animation/Comedy"
+  },
+  {
+    "director": "Ric Roman Waugh",
+    "year": 2008,
+    "name": "Felon",
+    "rottenTomatoes": 61,
+    "genre": "Crime/Drama"
+  },
+  {
+    "rottenTomatoes": 80,
+    "director": "John Schlesinger",
+    "year": 1976,
+    "name": "Marathon Man",
+    "genre": "Thriller/Crime"
+  },
+  {
+    "rottenTomatoes": 98,
+    "name": "Once Upon a Time in the West",
+    "year": 1968,
+    "genre": "Western",
+    "director": "Sergio Leone"
+  },
+  {
+    "director": "Jim Jarmusch",
+    "year": 1991,
+    "name": "Night on Earth",
+    "genre": "Comedy/Drama",
+    "rottenTomatoes": 71
+  },
+  {
+    "director": "Rian Johnson",
+    "genre": "Action/Sci-Fi",
+    "rottenTomatoes": 93,
+    "name": "Looper",
+    "year": 2012
+  },
+  {
+    "genre": "Biography/Comedy",
+    "rottenTomatoes": 75,
+    "director": "Olivier Nakache & Éric Toledano",
+    "name": "The Intouchables",
+    "year": 2011
+  },
+  {
+    "year": 1966,
+    "name": "Who's Afraid of Virginia Woolf?",
+    "genre": "Drama",
+    "director": "Mike Nichols",
+    "rottenTomatoes": 97
+  },
+  {
+    "name": "Detachment",
+    "rottenTomatoes": 57,
+    "year": 2011,
+    "genre": "Drama",
+    "director": "Tony Kaye"
+  },
+  {
+    "director": "Martin Scorsese",
+    "genre": "Drama",
+    "name": "The Last Temptation of Christ",
+    "year": 1988,
+    "rottenTomatoes": 84
+  },
+  {
+    "rottenTomatoes": 76,
+    "director": "Woody Allen",
+    "name": "Match Point",
+    "genre": "Drama/Romance",
+    "year": 2005
+  },
+  {
+    "genre": "Action/Biography",
+    "rottenTomatoes": 75,
+    "name": "Lone Survivor",
+    "director": "Peter Berg",
+    "year": 2013
+  },
+  {
+    "director": "Kathryn Bigelow",
+    "name": "Zero Dark Thirty",
+    "rottenTomatoes": 93,
+    "year": 2012,
+    "genre": "Drama/Thriller"
+  },
+  {
+    "genre": "Comedy",
+    "year": 1986,
+    "director": "John Hughes",
+    "rottenTomatoes": 80,
+    "name": "Ferris Bueller's Day Off"
+  },
+  {
+    "year": 1988,
+    "rottenTomatoes": 93,
+    "director": "Hayao Miyazaki",
+    "name": "My Neighbor Totoro",
+    "genre": "Animation/Family"
+  },
+  {
+    "year": 1960,
+    "director": "Federico Fellini",
+    "rottenTomatoes": 96,
+    "name": "La Dolce Vita",
+    "genre": "Comedy/Drama"
+  },
+  {
+    "director": "Boaz Yakin",
+    "name": "Remember the Titans",
+    "genre": "Biography/Sport",
+    "year": 2000,
+    "rottenTomatoes": 73
+  },
+  {
+    "genre": "Animation/Adventure",
+    "name": "Who Framed Roger Rabbit",
+    "year": 1988,
+    "director": "Robert Zemeckis",
+    "rottenTomatoes": 98
+  },
+  {
+    "genre": "Action/Sci-Fi",
+    "director": "James Cameron",
+    "name": "Aliens",
+    "rottenTomatoes": 98,
+    "year": 1986
+  },
+  {
+    "director": "Edward Zwick",
+    "genre": "Adventure/Drama",
+    "rottenTomatoes": 62,
+    "year": 2006,
+    "name": "Blood Diamond"
+  },
+  {
+    "rottenTomatoes": 86,
+    "director": "Jason Reitman",
+    "name": "Thank You for Smoking",
+    "genre": "Comedy/Drama",
+    "year": 2005
+  },
+  {
+    "year": 2004,
+    "director": "Shane Meadows",
+    "genre": "Crime/Drama",
+    "rottenTomatoes": 57,
+    "name": "Dead Man's Shoes"
+  },
+  {
+    "name": "Close Encounters of the Third Kind",
+    "director": "Steven Spielberg",
+    "year": 1977,
+    "genre": "Drama/Sci-Fi",
+    "rottenTomatoes": 96
+  },
+  {
+    "genre": "Adventure/Drama",
+    "name": "The Searchers",
+    "director": "John Ford",
+    "year": 1956,
+    "rottenTomatoes": 100
+  }
+]
